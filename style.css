@@ -1,0 +1,69 @@
+body {
+    width: 60%;
+    height:110vh;
+    padding: 15%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    font-size: 3vh;
+    text-align: center;
+    display: flex;
+    color: aliceblue;
+   
+    
+  
+
+}
+
+.circle-container{
+    width: 55%;
+    height: 70dvw;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    text-align: center;
+    padding: 20%;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    
+    
+   
+    
+    
+}
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    color: rgb(243, 241, 239);
+    font-weight: bold;
+    text-align: center;
+   
+    
+    
+   
+    
+
+
+}
+
+img {
+    width: 50vh;
+    height: 25vw;
+    border-radius:50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   
+
+
+
+
